@@ -1,4 +1,4 @@
-![I'm Web Developer](https://richestsoft.com/blog/wp-content/uploads/2019/04/web-development-banner.jpg)
+![I'm Front-End Developer](https://raw.githubusercontent.com/romastony0/romastony0/main/frontendSmallBanner.jpg)
 
 
 [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
@@ -14,9 +14,9 @@
 
 # ROMAS TONY.P   
 
-## FONT END DEVELOPER
+## FRONT-END DEVELOPER
 
-Front End Developer with a passion for web application development and success in managing development projects. I am skilled in conceptualizing, designing, developing, and deploying software containing logical and mathematical solutions to business problems. I am dedicated to driving innovation to follow industry and technological trends and facilitate the early adoption of innovations.
+Front-End Developer with a passion for web application development and success in managing development projects. I am skilled in conceptualizing, designing, developing, and deploying software containing logical and mathematical solutions to business problems. I am dedicated to driving innovation to follow industry and technological trends and facilitate the early adoption of innovations.
 
 
 Glad to see you here! 😍 
