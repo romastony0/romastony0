@@ -12,11 +12,11 @@
 
 
 
-# VISHWANATH.A    
+# ROMAS TONY.P   
 
-## WEB DEVELOPER
+## FONT END DEVELOPER
 
-Web Developer with a passion for web application development and success in managing development projects. I am skilled in conceptualizing, designing, developing, and deploying software containing logical and mathematical solutions to business problems. I am dedicated to driving innovation to follow industry and technological trends and facilitate the early adoption of innovations.
+Front End Developer with a passion for web application development and success in managing development projects. I am skilled in conceptualizing, designing, developing, and deploying software containing logical and mathematical solutions to business problems. I am dedicated to driving innovation to follow industry and technological trends and facilitate the early adoption of innovations.
 
 
 Glad to see you here! 😍 
