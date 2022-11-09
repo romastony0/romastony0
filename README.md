@@ -1,7 +1,7 @@
 ![I'm Front-End Developer](https://github.com/romastony0/romastony0/blob/main/Twitter%20post%20-%201%20(1).jpg)
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev) -->
 
 
 
